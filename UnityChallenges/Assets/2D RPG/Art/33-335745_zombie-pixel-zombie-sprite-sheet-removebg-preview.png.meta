@@ -1,0 +1,2258 @@
+fileFormatVersion: 2
+guid: 19c4852d0143d714782ae249518b256e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6223f0f3539c347af508b91773e92c
+      internalID: 1312215449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0604216a323784cbd8171607fa1744
+      internalID: -707681430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fea1bd35d3774c898b5b5d4796191
+      internalID: 1127647504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93e900743542f428b6251f13eca8f2
+      internalID: -515110698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be720b1de8418034e91808f67d7a8fc0
+      internalID: -959767680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd060e6d069745498abcc332b5e2acb
+      internalID: 1587004976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f4e831ea4e501448c4b0b843777e55
+      internalID: -475368659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131fd43dacc0d54a9c646b4e3229d3e
+      internalID: 826171955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbcd96772d399541912bef88408106f
+      internalID: -583147947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a368ebce5e0e41a83606770c476e7
+      internalID: -180252877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f12508953d1b848bfad3b77c8d9692
+      internalID: 1738232570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 405.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf0752b852e7342ad98a244e9f78bc
+      internalID: 1412811521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd72a8a7c922634bba1b9f18d23f5c8
+      internalID: 496306547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fc531c8df00143945059fab23a9e6
+      internalID: 338008976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f2982255011f4f881916492e86394
+      internalID: 175538388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672269abd8e64694aa29b3044bba9760
+      internalID: -802192915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1054786cda044d7419ff94365667ec84
+      internalID: -1162389096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2116ee73edea438a6c11591bc5af8
+      internalID: -181054937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1449c5338be8438e0ba8e0dc56561
+      internalID: -309327292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facda8fe94b146444b8221cb3aeb352c
+      internalID: 1061692221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2471fb1b96ec84faed1e8874933271
+      internalID: -1434856703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f699e5223ecb14ea5da021aaa56c06
+      internalID: -305399259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19068d83ebe713448b1f12c0f7b1bf8
+      internalID: 1226608363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 348.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1297a1a88f6aa8449952c337dd8380aa
+      internalID: -1356365835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0fa1356c060d84f93030385c6f7c76
+      internalID: 425453373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ad4c9f08d9f04ba9600b9d997154b
+      internalID: 1342014140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a436377972b24eb0509329f521407
+      internalID: -1059468487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cba68d8b21250499659714110a0f54
+      internalID: -747349033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33c98902fc64b429d5854812ce2cf5
+      internalID: 855731413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e005a48b8173143970566f35fbce0a
+      internalID: -1192379799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45716ba01256c64cafe035c93fe150d
+      internalID: -1654263773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314bb548f5f6def41ab7db646a3b4020
+      internalID: -2104091981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec660d2b6769874e8c27756a97989ab
+      internalID: 143082908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865230e48e7a7846bfb2e91e28aba44
+      internalID: 472946720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d15165f37daca499ff8586f9f63ac0
+      internalID: 166500155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 291.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a857a3074433a48a196c79188353c1
+      internalID: 118107925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73f9a5d4ebbbc4ab487d3660559155
+      internalID: 1891060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8409015a571f749a0a48b08a252a9a
+      internalID: 565091863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263a3ea0a2a3dee42ac92f9ad1eb3c67
+      internalID: -1843187305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf41bae820d1014a8d83d3c492c2cc8
+      internalID: -1172141396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637356d12203974f9f717eeeeb699f3
+      internalID: 2098370557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830ac784affb894ba6a96a2c913d379
+      internalID: 871328424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869d8597ab261a4bb98ba7a22deb210
+      internalID: 1282459568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0811ff64f51824bb9d272c7da95340
+      internalID: -433260162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68d7ce0e782ff04ca775fd4bc8dbb45
+      internalID: -1992747344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ca2d39e1ef31945b37e72c22dce3d9
+      internalID: 1110940248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1adbd5e0a901b74b886b0d825df903d
+      internalID: 46998559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 234.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8f505f9c045a4da254ab4dff64251
+      internalID: -1543490189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f28919d2ebcd438b977cb22f1d104
+      internalID: -582850594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1946e717f9654489614f695de05e05
+      internalID: -695283452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086b86d4b949c3843b56cd3cf2b16499
+      internalID: 1342441555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe49e6d0b573a7548baccf9c9f673882
+      internalID: 224033369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c380f42df02785443930a14bead90dfa
+      internalID: 1794650378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da89af2adc162a44ab1ccefa12c9308
+      internalID: 2007344851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a96728fa3a03c4ea476fc4bd59d961
+      internalID: 1870087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76fc20ff0f14e843929b55b7187a1e9
+      internalID: 244933758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b53064578d9b94dbcc4157a20abb54
+      internalID: -11179135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86390200b38825b4b98f8a8c6b72c331
+      internalID: 2133674474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9fa9655408f94f9b9a559dddaaf9d
+      internalID: 1006798934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 177.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914fe3eaa20479445b03eb5713dcc3c4
+      internalID: 410458927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0b21480d2ae8479b3bee0e8caf254
+      internalID: -1905222422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e173808722bfee4dabf8ae2d743efb5
+      internalID: -937852076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23512c97491e7547931f7957019701b
+      internalID: 959967328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058f89f14d270ab4e9e8c78c0a0bd330
+      internalID: 1405250498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88483d6e016e4d747b5f8180014e301a
+      internalID: 672054771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a4e31c346293d42b811d150feb6d5b
+      internalID: 1274394903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a3d73d23bf0d4c86ed937428f4e85
+      internalID: 1875738198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a996394a2dba5944b07ee2bf0059290
+      internalID: 284193231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d75184dd0a5e45a3657542c2b44a7
+      internalID: -585735989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ca30414917424fbaf8c15fffc6823
+      internalID: 475667636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df5bb9b5e8eb440bf49c37286f6b7c
+      internalID: -2003154567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 120.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1713f3ac23e51884d94378244f7fdeb2
+      internalID: -486875470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f37022e048694aa932623bd8177f2
+      internalID: 128534654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a30a2a0eca5946a59f56ceeb36ab9
+      internalID: -1991381339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a9da3cef01ed94cb638f581291a6cc
+      internalID: -1387571175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972aea19f09d5fd42829a993964ae14e
+      internalID: -1149900087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe71650b290353438e6067a36f2e205
+      internalID: -1384688548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23642821d683d41a0ef332fda4c34b
+      internalID: 1835643392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f11b408ec66b468a3eeb0ce6d5adc
+      internalID: -1118402576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf125072d00d14da114f9b0d23bcd2
+      internalID: 2142000091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c74a332039f74b84b176b279fc166
+      internalID: -549735596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0d6d06674f564083ae068e40e796d
+      internalID: -1164209604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15865064cac1a4191c86dfc1ef0ae5
+      internalID: 389306017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12d5205dc1ac449a2e24feef83582c
+      internalID: -1398104537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ba0153c8805347bfacc25989698fe
+      internalID: -1064774646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f8c8cbaba1244c9b5da4803d6c57c
+      internalID: 1275583661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1a720539c60b48b750e220a4f4dfa
+      internalID: 1942838858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450d2aa18c95e740bdfc70c427d0dd7
+      internalID: -1124007855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4b0b18a869cd043aebfe7d7fb53a4f
+      internalID: 110581249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3443a4d290c44ebfdfa6cf176fb75
+      internalID: -1553751855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef80912dc7d94c6428bca80ffc5bf600
+      internalID: -424043297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8fba9626d639469f6211a855c1c96
+      internalID: 1274655717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4062c00e1521d4bba377f5b7494a7e
+      internalID: 1808077875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3264b8ab26b66542a5b5ac8969237a7
+      internalID: -179956244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe2edd3756838348a3c7fd8877fd65e
+      internalID: -1196573837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6.125
+        width: 43.25
+        height: 57.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9381accde1ab4479b2ba98b2a55386
+      internalID: 2012072771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 004c3d68a20157c4ba882d3563751230
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_14: 175538388
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_59: 410458927
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_80: -549735596
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_5: 1587004976
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_42: 1282459568
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_72: 128534654
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_34: 166500155
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_89: -1553751855
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_27: -747349033
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_81: -1164209604
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_68: -585735989
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_43: -433260162
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_51: 224033369
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_4: -959767680
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_87: -1124007855
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_41: 871328424
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_56: -11179135
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_25: 1342014140
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_84: -1064774646
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_38: -1843187305
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_91: 1274655717
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_65: 1274394903
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_49: -695283452
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_52: 1794650378
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_3: -515110698
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_32: 143082908
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_76: -1384688548
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_36: 1891060329
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_1: -707681430
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_63: 1405250498
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_85: 1275583661
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_74: -1387571175
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_53: 2007344851
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_88: 110581249
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_16: -1162389096
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_79: 2142000091
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_83: -1398104537
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_7: 826171955
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_6: -475368659
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_37: 565091863
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_46: 46998559
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_62: 959967328
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_33: 472946720
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_35: 118107925
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_8: -583147947
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_55: 244933758
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_40: 2098370557
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_30: -1654263773
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_57: 2133674474
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_31: -2104091981
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_12: 496306547
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_20: -1434856703
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_93: -179956244
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_15: -802192915
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_19: 1061692221
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_22: 1226608363
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_2: 1127647504
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_9: -180252877
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_75: -1149900087
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_86: 1942838858
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_23: -1356365835
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_66: 1875738198
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_82: 389306017
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_73: -1991381339
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_71: -486875470
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_95: 2012072771
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_77: 1835643392
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_48: -582850594
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_60: -1905222422
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_70: -2003154567
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_78: -1118402576
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_54: 1870087019
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_50: 1342441555
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_44: -1992747344
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_11: 1412811521
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_21: -305399259
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_13: 338008976
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_61: -937852076
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_47: -1543490189
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_10: 1738232570
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_58: 1006798934
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_90: -424043297
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_29: -1192379799
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_28: 855731413
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_24: 425453373
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_0: 1312215449
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_18: -309327292
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_26: -1059468487
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_69: 475667636
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_64: 672054771
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_39: -1172141396
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_67: 284193231
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_92: 1808077875
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_94: -1196573837
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_17: -181054937
+      33-335745_zombie-pixel-zombie-sprite-sheet-removebg-preview_45: 1110940248
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
